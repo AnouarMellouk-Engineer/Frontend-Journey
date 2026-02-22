@@ -18,6 +18,7 @@ some resourses
 
 - **Frontend**= what users see
 - **Backend** = logic, database, server
+  ![CORE](images/fullfrontendbackendsummary.webp)
 
 > Frontend and backend work together to deliver a complete digital experience.
 
@@ -111,6 +112,8 @@ When you type a URL in the browser:
 - The server processes it
 - A response is returned
 - The browser renders the page
+
+![CORE](images/68747470733a2f2f6173736574732e6279746562797465676f2e636f6d2f6469616772616d732f303339332d747970652d612d75726c2d696e746f2d796f75722d62726f777365722e706e67.png)
 
 > Understanding this flow separates beginners from engineers.
 
