@@ -4,6 +4,7 @@
 
 - **Frontend**= what users see
 - **Backend** = logic, database, server
+
   ![CORE](images/fullfrontendbackendsummary.webp)
 
 > Frontend and backend work together to deliver a complete digital experience.
