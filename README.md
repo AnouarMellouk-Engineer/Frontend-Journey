@@ -140,6 +140,32 @@ Each has performance and SEO implications.
 
 ## 🧠 The Global Picture
 
+mindmap
+root((Frontend))
+Rendering
+CSR
+SSR
+SSG
+Streaming
+Server Components
+Performance
+Bundle size
+Lazy loading
+Core Web Vitals
+State
+Client state
+Server state
+URL state
+Cache sync
+UX
+Accessibility
+Responsive design
+Error boundaries
+Security
+XSS prevention
+CORS
+Content Security Policy
+
 Frontend is NOT:
 
 - Just colors
