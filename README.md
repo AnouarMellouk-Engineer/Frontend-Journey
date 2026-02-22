@@ -62,7 +62,7 @@ Frontend code lives and runs inside the browser.
 - **CSS** → Styling
 - **JavaScript** → Logic
 
-![CORE](./images/338-1733217432633.jpg)
+![CORE](images/338-1733217432633.jpg)
 
 These are not **optional** they are fundamental.
 
