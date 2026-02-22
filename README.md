@@ -154,21 +154,28 @@ Frontend IS:
 
 ---
 
-## SEO Optimization
+## 🔍 SEO Optimization
 
-- Search engines
-- Page speed
+Search Engine Optimization matters because visibility matters.
+
+Frontend impacts **SEO** through:
+
 - Semantic HTML
-- SSR impact
+- Page speed
+- Accessibility
+- Metadata
+- Rendering strategy (CSR vs SSR)
 
 ---
 
-## Communication with Backend
+## 🔗 Communication with Backend
+
+Frontend applications communicate with backend systems using:
 
 - APIs
 - JSON
-- Fetch
+- HTTP requests (GET, POST, etc.)
 - Authentication
 - Authorization
 
-A real frontend developer must understand backend basics.
+> A real frontend developer must understand backend fundamentals to build complete systems.
