@@ -141,31 +141,18 @@ Each has performance and SEO implications.
 ## 🧠 The Global Picture
 
 ```mermaid
-mindmap
-  root((Frontend))
-    Rendering
-      CSR
-      SSR
-      SSG
-      Streaming
-      Server Components
-    Performance
-      Bundle size
-      Lazy loading
-      Core Web Vitals
-    State
-      Client state
-      Server state
-      URL state
-      Cache sync
-    UX
-      Accessibility
-      Responsive design
-      Error boundaries
-    Security
-      XSS prevention
-      CORS
-      Content Security Policy
+graph LR
+    A[User] --> B[Browser]
+    B --> C[CDN]
+    C --> D[Load Balancer]
+    D --> E[Server]
+    E --> F[Cache]
+    F --> G[Database]
+    E --> H[Auth Service]
+    E --> I[Background Jobs]
+    E --> J[Logging]
+    J --> K[Monitoring]
+```
 
 Frontend is NOT:
 
@@ -211,4 +198,7 @@ Frontend applications communicate with backend systems using:
 - Authorization
 
 > A real frontend developer must understand backend fundamentals to build complete systems.
+
+```
+
 ```
