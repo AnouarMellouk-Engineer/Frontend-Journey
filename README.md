@@ -201,4 +201,4 @@ Frontend applications communicate with backend systems using:
 
 ## Roadmaps
 
-![Frontend Development Roadmap](https://roadmap.sh/frontend)
+Frontend Development Roadmap : https://roadmap.sh/frontend
