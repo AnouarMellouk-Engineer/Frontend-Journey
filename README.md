@@ -18,7 +18,7 @@ some resourses
 
 - **Frontend**= what users see
 - **Backend** = logic, database, server
-  ![CORE](images/fullfrontendbackendsummary.webp)
+  ![CORE](images/What-is-an-API.png)
 
 > Frontend and backend work together to deliver a complete digital experience.
 
@@ -213,6 +213,6 @@ Frontend applications communicate with backend systems using:
 
 > A real frontend developer must understand backend fundamentals to build complete systems.
 
-```
+## Roadmaps
 
-```
+![Frontend Development Roadmap](https://roadmap.sh/frontend)
