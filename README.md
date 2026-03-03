@@ -1,18 +1,4 @@
-<!--
-intro to the web  ( we have frontend and backend)
-what is frontend ( UI and UX ,relation with backend , a way  )
-what is browser
-HTML , CSS , JS
-tools & framworks & libariries
-is these enauth to get a gob (the journy not end here ) !
-you need to know what happens behind the sceens (what is internet / what heppen when we type a URL ,networking (DNS ...))
-what is rendering and diffrent level of rendering (workflow)
-the global picture
-SEO optimatisation
-who to communicate wit the backend (you need to learn backend)
-some roadmaps
-some resourses
- -->
+# how interactive websites actually work?
 
 ## 🌍Intro to the Web
 
